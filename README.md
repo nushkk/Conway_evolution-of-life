@@ -15,7 +15,7 @@ Dependencies
 ./main <height: 1-25> <width: 1-100>
 ```
 3. Follow the on-screen UI instructions.
-Press O during the simulation to enter Options mode.
+Press 'O' during the simulation to enter Options mode.
 
 ## Implementations
 - Game of Life
