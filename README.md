@@ -2,7 +2,7 @@
 
 A C implementation of various Cellular Automata simulations.
 
-Dependencies
+## Dependencies
 - GCC compiler
 
 ## Quick Start
