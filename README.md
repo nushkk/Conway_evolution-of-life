@@ -1,20 +1,24 @@
-# GOL 
+# Conway's Game of Life 
 
-Implementation of different Cellular Automaton in C.
+A C implementation of various Cellular Automata simulations.
 
-Dependencies: GCC
+Dependencies
+- GCC compiler
 
 ## Quick Start
-```sh
+1. Build the program by running:
+```bash
 ./build.sh
+```
+2. Run the executable with:
+```bash
 ./main <height: 1-25> <width: 1-100>
 ```
-The UI explains the controls. Press 'O' to enter options mode.
 
 ## Implementations
-Game of Life,
-Seeds,
-Brian's Brain,
-Day & Night,
-Wireworld.
+- Game of Life
+- Seeds
+- Brian's Brain
+- Day & Night
+- Wireworld
 
